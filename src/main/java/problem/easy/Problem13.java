@@ -1,8 +1,7 @@
 package problem.easy;
 
-import java.util.Queue;
-import java.util.stream.Collectors;
 import java.util.LinkedList;
+import java.util.Queue;
 
 public class Problem13 {
 

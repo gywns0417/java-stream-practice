@@ -1,9 +1,6 @@
 package problem.easy;
 
-import java.util.LinkedHashMap;
 import java.util.Map;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class Problem20 {
 

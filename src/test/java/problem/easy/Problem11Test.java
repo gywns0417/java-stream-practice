@@ -1,9 +1,10 @@
 package problem.easy;
 
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
-import java.util.Set;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 import java.util.Optional;
+import java.util.Set;
+import org.junit.jupiter.api.Test;
 
 public class Problem11Test {
 

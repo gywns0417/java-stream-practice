@@ -1,10 +1,11 @@
 package problem.easy;
 
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
+import org.junit.jupiter.api.Test;
 import problem.resources.Customer;
 
 public class Problem10Test {
