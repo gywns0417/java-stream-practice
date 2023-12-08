@@ -1,8 +1,6 @@
 package problem.hard;
 
 import java.util.List;
-import java.util.function.BinaryOperator;
-import java.util.stream.Stream;
 
 public class Problem67 {
 

@@ -1,8 +1,6 @@
 package problem.medium;
 
 import java.util.List;
-import java.util.Map;
-import java.util.stream.Collectors;
 import problem.resources.Customer2;
 import problem.resources.Employee;
 import problem.resources.Product;

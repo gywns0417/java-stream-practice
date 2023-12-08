@@ -2,7 +2,6 @@ package problem.hard;
 
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Collectors;
 import problem.hard.resources.Book;
 
 public class Problem81 {

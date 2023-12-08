@@ -1,8 +1,7 @@
 package problem.medium;
 
-import java.util.List;
 import java.util.AbstractMap.SimpleEntry;
-import java.util.OptionalDouble;
+import java.util.List;
 
 public class Problem41 {
 

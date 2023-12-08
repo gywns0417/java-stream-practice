@@ -1,12 +1,8 @@
 package problem.hard;
 
-import problem.hard.resources.Customer;
-import problem.hard.resources.Order;
-import problem.hard.resources.Product;
-
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Collectors;
+import problem.hard.resources.Customer;
 
 public class Problem90 {
 

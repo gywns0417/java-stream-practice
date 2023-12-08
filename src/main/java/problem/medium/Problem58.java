@@ -1,8 +1,6 @@
 package problem.medium;
 
-import java.util.Comparator;
 import java.util.List;
-import java.util.Optional;
 import problem.resources.Employee;
 
 public class Problem58 {

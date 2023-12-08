@@ -1,7 +1,6 @@
 package problem.hard;
 
 import java.util.List;
-import java.util.stream.Collectors;
 import problem.hard.resources.Customer;
 
 public class Problem89 {

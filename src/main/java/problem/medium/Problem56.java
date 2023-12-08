@@ -1,7 +1,6 @@
 package problem.medium;
 
 import java.util.List;
-import java.util.stream.Collectors;
 import problem.resources.Employee;
 
 public class Problem56 {

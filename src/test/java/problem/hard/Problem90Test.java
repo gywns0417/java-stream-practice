@@ -2,14 +2,13 @@ package problem.hard;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import problem.hard.resources.Customer;
-import problem.hard.resources.Order;
-import problem.hard.resources.Product;
-
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 import org.junit.jupiter.api.Test;
+import problem.hard.resources.Customer;
+import problem.hard.resources.Order;
+import problem.hard.resources.Product;
 
 public class Problem90Test {
 

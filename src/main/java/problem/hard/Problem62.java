@@ -1,7 +1,6 @@
 package problem.hard;
 
 import java.util.List;
-import java.util.OptionalInt;
 
 public class Problem62 {
 

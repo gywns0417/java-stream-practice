@@ -1,7 +1,6 @@
 package problem.medium;
 
 import java.util.List;
-import java.util.stream.IntStream;
 
 public class Problem48 {
 

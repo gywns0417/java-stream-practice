@@ -2,7 +2,6 @@ package problem.medium;
 
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Collectors;
 import problem.resources.Product;
 
 public class Problem59 {
