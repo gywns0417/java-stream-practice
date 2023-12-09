@@ -1,4 +1,4 @@
-package problem.resources;
+package problem.medium.resources;
 
 public class Order {
     private String product;

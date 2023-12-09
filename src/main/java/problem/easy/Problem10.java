@@ -2,7 +2,7 @@ package problem.easy;
 
 import java.util.List;
 import java.util.Map;
-import problem.resources.Customer;
+import problem.easy.resources.Customer;
 
 public class Problem10 {
 

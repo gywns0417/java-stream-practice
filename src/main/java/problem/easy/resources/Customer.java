@@ -1,4 +1,4 @@
-package problem.resources;
+package problem.easy.resources;
 
 public class Customer {
     private final int id;

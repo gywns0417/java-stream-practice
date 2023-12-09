@@ -1,9 +1,9 @@
 package problem.medium;
 
 import java.util.List;
-import problem.resources.Customer2;
-import problem.resources.Employee;
-import problem.resources.Product;
+import problem.medium.resources.Customer2;
+import problem.medium.resources.Employee;
+import problem.medium.resources.Product;
 
 public class Problem60 {
 

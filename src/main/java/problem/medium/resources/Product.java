@@ -1,4 +1,4 @@
-package problem.resources;
+package problem.medium.resources;
 
 public class Product {
     private String name;

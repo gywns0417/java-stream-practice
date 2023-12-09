@@ -5,8 +5,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import java.util.Arrays;
 import java.util.List;
 import org.junit.jupiter.api.Test;
-import problem.resources.Customer2;
-import problem.resources.Order;
+import problem.medium.resources.Customer2;
+import problem.medium.resources.Order;
 
 public class Problem53Test {
 

@@ -1,7 +1,7 @@
 package problem.medium;
 
 import java.util.List;
-import problem.resources.Customer2;
+import problem.medium.resources.Customer2;
 
 public class Problem55 {
 

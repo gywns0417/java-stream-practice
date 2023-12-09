@@ -1,7 +1,7 @@
 package problem.medium;
 
 import java.util.List;
-import problem.resources.Order;
+import problem.medium.resources.Order;
 
 public class Problem57 {
 

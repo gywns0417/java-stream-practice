@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 import org.junit.jupiter.api.Test;
-import problem.resources.Customer;
+import problem.easy.resources.Customer;
 
 public class Problem10Test {
 

@@ -1,4 +1,4 @@
-package problem.resources;
+package problem.medium.resources;
 
 public class Employee {
     private String name;

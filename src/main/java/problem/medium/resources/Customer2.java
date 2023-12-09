@@ -1,4 +1,4 @@
-package problem.resources;
+package problem.medium.resources;
 
 import java.util.List;
 
