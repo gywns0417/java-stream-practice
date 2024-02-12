@@ -9,6 +9,6 @@ public class Problem37Test {
 
     @Test
     public void testCountWordsContainingA() {
-        assertEquals(3, Problem37.countWordsContainingA(Arrays.asList("apple", "banana", "cherry", "fig")));
+        assertEquals(2, Problem37.countWordsContainingA(Arrays.asList("apple", "banana", "cherry", "fig")));
     }
 }

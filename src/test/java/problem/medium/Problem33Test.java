@@ -11,6 +11,6 @@ public class Problem33Test {
     @Test
     public void testSumLengthsOfStringsStartingWithA() {
         List<String> input = Arrays.asList("apple", "banana", "avocado", "apricot", "grape");
-        assertEquals(20, Problem33.sumLengthsOfStringsStartingWithA(input));
+        assertEquals(19, Problem33.sumLengthsOfStringsStartingWithA(input));
     }
 }

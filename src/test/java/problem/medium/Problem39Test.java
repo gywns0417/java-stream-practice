@@ -9,6 +9,6 @@ public class Problem39Test {
 
     @Test
     public void testSumOfSquaresOfNumbersGreaterThanFive() {
-        assertEquals(134, Problem39.sumOfSquaresOfNumbersGreaterThanFive(Arrays.asList(1, 2, 3, 6, 7)));
+        assertEquals(85, Problem39.sumOfSquaresOfNumbersGreaterThanFive(Arrays.asList(1, 2, 3, 6, 7)));
     }
 }

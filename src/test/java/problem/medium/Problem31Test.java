@@ -11,7 +11,7 @@ public class Problem31Test {
     @Test
     public void testTransformAndSortStrings() {
         List<String> input = Arrays.asList("apple", "banana", "cherry", "fig", "elephant", "dog", "cat");
-        List<String> expected = Arrays.asList("APPLE", "BANANA", "CHERRY", "ELEPHANT");
+        List<String> expected = Arrays.asList("APPLE", "CHERRY");
         assertEquals(expected, Problem31.transformAndSortStrings(input));
     }
 }
