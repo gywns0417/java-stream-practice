@@ -9,7 +9,7 @@ public class Problem38Test {
 
     @Test
     public void testAverageLengthOfStringsStartingWithB() {
-        assertEquals(6.0, Problem38.averageLengthOfStringsStartingWithB(Arrays.asList("banana", "blueberry", "apple")), 0.001);
+        assertEquals(7.5, Problem38.averageLengthOfStringsStartingWithB(Arrays.asList("banana", "blueberry", "apple")), 0.001);
         assertEquals(0.0, Problem38.averageLengthOfStringsStartingWithB(Arrays.asList("apple", "cherry")), 0.001);
     }
 }

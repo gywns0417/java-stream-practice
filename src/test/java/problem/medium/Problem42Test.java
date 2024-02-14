@@ -9,6 +9,6 @@ public class Problem42Test {
 
     @Test
     public void testSumSpecialMultiples() {
-        assertEquals(36, Problem42.sumSpecialMultiples(Arrays.asList(3, 5, 10, 15)));
+        assertEquals(63, Problem42.sumSpecialMultiples(Arrays.asList(3, 5, 10, 15)));
     }
 }

@@ -1,6 +1,7 @@
 package problem.easy;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.util.PriorityQueue;
 import java.util.Queue;
@@ -15,6 +16,11 @@ public class Problem18Test {
         for (int n : new int[]{1, 2, 3, 4, 5}) {
             expected.add(n);
         }
-        assertEquals(expected, Problem18.createPriorityQueueFromStream(input));
+
+        Queue<Integer> actual = Problem18.createPriorityQueueFromStream(input);
+        assertTrue(actual instanceof PriorityQueue);
+        assertEquals(expected.size(), actual.size());
+        while (!expected.isEmpty())
+            assertEquals(expected.poll(), actual.poll());
     }
 }
